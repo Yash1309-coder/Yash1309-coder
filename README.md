@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/dark.svg" alt="Hero Banner" width="100%">
+</p>
+
+
 <h1 align="center">Hey, I'm Yash Aggarwal 👋</h1>
 
 <p align="center">
